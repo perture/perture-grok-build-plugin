@@ -1,0 +1,15 @@
+{
+  "name": "perture",
+  "version": "1.0.0",
+  "description": "Connect Grok Build to Perture for authorized brand context, interface review, and scoped Brand Page editing.",
+  "author": {
+    "name": "Perture",
+    "email": "supportperture@gmail.com",
+    "url": "https://app.perture.co/"
+  },
+  "homepage": "https://app.perture.co/",
+  "repository": "https://github.com/perture/perture-grok-build-plugin",
+  "license": "MIT",
+  "keywords": ["perture", "perture brand", "perture design system"],
+  "logo": "assets/logo.png"
+}

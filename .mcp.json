@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "perture": {
+      "type": "http",
+      "url": "https://app.perture.co/mcp"
+    }
+  }
+}
